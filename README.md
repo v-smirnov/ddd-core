@@ -1,2 +1,2 @@
 # ddd-core
-Base classes for domain deriven design
+Base classes for domain driven design
